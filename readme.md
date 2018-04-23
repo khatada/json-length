@@ -1,4 +1,4 @@
-### json-length
+## json-length
 
 Calculate length of stringified json without `JSON.stringify`.
 
@@ -14,3 +14,7 @@ if(length === jsonStringifyLength){
     console.log("jsonLength(json) === JSON.stringify(json).length");
 }
 ```
+
+### License
+
+MIT
