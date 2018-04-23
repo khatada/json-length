@@ -1,6 +1,8 @@
 ## json-length
 
 Calculate length of stringified json without `JSON.stringify`.
+- npm: https://www.npmjs.com/package/json-length
+- repository: https://github.com/khatada/json-length
 
 ``` javascript
 const jsonLength = require("json-length");
