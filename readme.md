@@ -1,7 +1,9 @@
 ### json-length
 
+Calculate length of stringified json without `JSON.stringify`.
+
 ``` javascript
-const jsonLength = require(...);
+const jsonLength = require("json-length");
 
 const json = { ... };
 const length = jsonLength(json);
